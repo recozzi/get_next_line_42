@@ -12,5 +12,5 @@ The project involves implementing a function in the C programming language that 
 </ol>
 <h2>Info</h2>
 For more information about this project, please read the subject file <a href="https://github.com/recozzi/get_next_line_42/blob/main/en.subject.pdf">here</a>.
-<h2>Licence</h2>
+<h2>License</h2>
 See <a href="https://github.com/recozzi/get_next_line_42/blob/main/LICENSE">License</a>.
